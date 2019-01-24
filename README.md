@@ -15,7 +15,7 @@ of products having reduced price sorted by price reduction.
 - Visit ```http://localhost:8000/v1/products```
 
 **Note!** This application was developed in a shortest time possible without considering all scenarios 
-and edge cases. It was developed just to give high level picture of how would my code structure look
-like. It means it does not have an extensive test coverage covering all edge cases. Also
+and edge cases. It was developed just to give a rough idea of how my code structure would look
+like. That said, it does not have an extensive test coverage covering all edge cases. Also,
 code was not reviewed by anyone - neither by myself taking long time. So please expect
 some errors and typos here and there.
